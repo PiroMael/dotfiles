@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = piromael46@gmail.com
+	name = Mael Piro
